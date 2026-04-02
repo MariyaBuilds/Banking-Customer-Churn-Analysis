@@ -61,12 +61,9 @@ Customer churn is a major challenge in the banking sector. In this project, I pe
 
 ## **🛠️ Tech Stack**
 
-Category	        Tools Used
-
--Language	         Python 🐍
-
--Data Handling	     Pandas, NumPy
-
--Visualization	     Matplotlib, Seaborn
-
--Environment	       Jupyter Notebook
+| Category       |  Tools Used               |
+|----------------|----------------------------|
+| Language       | Python                     |
+| Data Handling  | Pandas, NumPy              |
+| Visualization  | Matplotlib, Seaborn        |
+| Environment    | Jupyter Notebook           |
