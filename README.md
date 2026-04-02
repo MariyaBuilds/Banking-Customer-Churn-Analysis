@@ -33,6 +33,7 @@ The dataset consists of 10,000+ bank customers with the following features:
 ✔️ Customer engagement is the strongest retention driver
 
 💡 Recommendations
+
 🎯 Launch targeted campaigns for inactive users
 💰 Provide premium services for high-value customers
 📞 Improve customer support experience
