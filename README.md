@@ -1,30 +1,30 @@
-# Banking-Customer-Churn-Analysis
-🚀 Project Summary
+# ***Banking-Customer-Churn-Analysis***
+## **🚀 Project Summary**
 
 Customer churn is a major challenge in the banking sector. In this project, I performed end-to-end data analysis to uncover key factors driving customer attrition and provided actionable business strategies to improve retention.
 
 🔍 This project demonstrates skills in:
 
-Data Cleaning & Preprocessing
+-Data Cleaning & Preprocessing
 
-Exploratory Data Analysis (EDA)
+-Exploratory Data Analysis (EDA)
 
-Data Visualization
+-Data Visualization
 
-Business Insight Generation
-
-
-🎯 Problem Statement
-
-Banks lose customers due to poor engagement, dissatisfaction, and competition.
-
-The goal is to analyze customer data and identify high-risk churn segments.
+-Business Insight Generation
 
 
+## **🎯 Problem Statement**
 
-📊 Dataset Overview
+-Banks lose customers due to poor engagement, dissatisfaction, and competition.
 
-The dataset consists of 10,000+ bank customers with the following features:
+-The goal is to analyze customer data and identify high-risk churn segments.
+
+
+
+## **📊 Dataset Overview**
+
+-The dataset consists of 10,000+ bank customers with the following features:
 
 👤 Customer Info: Age, Gender, Geography
 
@@ -36,7 +36,7 @@ The dataset consists of 10,000+ bank customers with the following features:
 
 
 
-🔍 Key Insights (Business Impact)
+## **🔍 Key Insights (Business Impact)**
 
 ✔️ Inactive customers are ~2x more likely to churn
 
@@ -48,7 +48,7 @@ The dataset consists of 10,000+ bank customers with the following features:
 
 
 
-💡 Recommendations
+## **💡 Recommendations**
 
 🎯 Launch targeted campaigns for inactive users
 
@@ -59,14 +59,14 @@ The dataset consists of 10,000+ bank customers with the following features:
 🤖 Build ML models to predict churn in advance
 
 
-🛠️ Tech Stack
+## **🛠️ Tech Stack**
 
 Category	        Tools Used
 
-Language	         Python 🐍
+-Language	         Python 🐍
 
-Data Handling	     Pandas, NumPy
+-Data Handling	     Pandas, NumPy
 
-Visualization	     Matplotlib, Seaborn
+-Visualization	     Matplotlib, Seaborn
 
-Environment	Jupyter Notebook
+-Environment	       Jupyter Notebook
